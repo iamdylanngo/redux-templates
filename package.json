@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "vnrm": "0.0.11"
+  }
+}
