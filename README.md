@@ -15,7 +15,7 @@ rn-redux init [projectName] --version [Version]
 Example: 
 
 ```
-rn-redux init testrn --version 0.57.0
+rn-redux init testrn --version 0.53.3
 ```
 
 Please wating install react-native:
