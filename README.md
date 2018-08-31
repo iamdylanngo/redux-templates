@@ -8,7 +8,7 @@ Init project react native with redux is easy
 npm i rn-redux -g
 ```
 
-### 2, Inint project react-native with rn-redux tools
+### 2, Init project react-native with rn-redux tools
 ```bash
 rn-redux init [projectName] --version [Version]
 ````
