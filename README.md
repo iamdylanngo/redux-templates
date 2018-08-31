@@ -25,4 +25,4 @@ Please wating install react-native:
 
 Waiting install redux, react-redux
 
-📦  [Docs RN-Redux]('https://www.npmjs.com/package/rn-redux') in NPM
+📦  [Docs RN-Redux](https://www.npmjs.com/package/rn-redux) in NPM
